@@ -1,7 +1,3 @@
-Certainly! Here’s a revised and polished version of your README:
-
----
-
 # Portrayal of a Retraction
 
 This repository contains code and analysis for examining articles from *Science* and *Nature* that include the term “retract*”.
