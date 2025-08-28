@@ -18,7 +18,3 @@ The included notebooks allow you to:
 The findings from this analysis are published as a preprint:
 
 Valinciute, A., & Roßmann, M. (2025, July 16). Representation of retractions in scientific media. https://doi.org/10.31219/osf.io/jkd3p_v1
-
----
-
-Let me know if you’d like to add installation instructions, usage examples, or any other details!
